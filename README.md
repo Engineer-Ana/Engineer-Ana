@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 **Sobre Mim**
+
 ```python
 class EngineerAna:
     def __init__(self):
@@ -28,16 +29,14 @@ class EngineerAna:
 
 me = EngineerAna()
 print(me.say_hello())
-
 🛠️ Tecnologias & Ferramentas
-
 💻 Programação & Dados
+text
 🐍 Python | 📊 Pandas | 🤖 Scikit-learn | 📈 Matplotlib
 🗄️ SQL | 📝 Git & GitHub | 🔍 Data Analysis | 🏭 Industry 4.0
-
 🎓 Em Aprendizado
+text
 🌟 Machine Learning | 🌐 Deep Learning | ☁️ Cloud Computing
-
 📈 Estatísticas do GitHub
 https://github-readme-stats.vercel.app/api?username=Engineer-Ana&show_icons=true&theme=radical
 
