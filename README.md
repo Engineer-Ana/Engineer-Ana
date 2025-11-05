@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou a Ana Maria Dias! 
 
-### 🎯 **Engenheira de Produção | Mestra | Cientista de Dados em Construção**
+### 🎯 **Engenheira de Produção | Pesquisadora I4.0 → Cientista de Dados**
+
+> **"Da pesquisa em processos industriais à ciência de dados - aplicando rigor acadêmico na transformação digital"**
+
 
 ---
 
