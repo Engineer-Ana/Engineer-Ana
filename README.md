@@ -1,58 +1,74 @@
-# 👋 Olá, eu sou a Ana Maria Dias! 
+# Ana Maria Dias
 
-### 🎯 **Engenheira de Produção | Pesquisadora I4.0 → Cientista de Dados**
+**Engenharia de Produção | Engenharia Têxtil | Desenvolvimento Web em formação**
 
-> **"Da pesquisa em processos industriais à ciência de dados - aplicando rigor acadêmico na transformação digital"**
-
+📍 Blumenau/SC, Brasil
 
 ---
 
-## 🚀 **Sobre Mim**
+## 👩‍💻 Sobre mim
 
-```python
-class EngineerAna:
-    def __init__(self):
-        self.name = "Ana Maria Dias"
-        self.pronouns = "she/her" 
-        self.location = "Blumenau/SC, Brasil"
-        self.education = {
-            "graduation": "Engenharia de Produção",
-            "masters": "Engenharia Têxtil - UFSC"
-        }
-        self.current_focus = "Data Science & Machine Learning"
-        self.passions = [
-            "Indústria 4.0",
-            "Python Programming", 
-            "Data Analytics",
-            "Motherhood & Neurodiversity"
-        ]
-    
-    def say_hello(self):
-        return "Bem-vindo ao meu mundo entre dados e afeto! 🌟"
+Atuo na interseção entre engenharia, tecnologia e dados, com foco em desenvolvimento de soluções práticas e eficientes.
 
-me = EngineerAna()
-print(me.say_hello())
-🛠️ Tecnologias & Ferramentas
-💻 Programação & Dados
-text
-🐍 Python | 📊 Pandas | 🤖 Scikit-learn | 📈 Matplotlib
-🗄️ SQL | 📝 Git & GitHub | 🔍 Data Analysis | 🏭 Industry 4.0
-🎓 Em Aprendizado
-text
-🌟 Machine Learning | 🌐 Deep Learning | ☁️ Cloud Computing
-📈 Estatísticas do GitHub
-https://github-readme-stats.vercel.app/api?username=Engineer-Ana&show_icons=true&theme=radical
+Atualmente em formação em **Desenvolvimento Web (Front-End e Back-End)**, construindo projetos aplicados e orientados a problemas reais.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-Ana&layout=compact&theme=radical
+Interesses principais:
 
-📫 Vamos Conversar?
-📧 Email: anama.dias@gmail.com
+* Indústria 4.0
+* Desenvolvimento Web
+* Análise de Dados
+* Aplicações tecnológicas com impacto real
 
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento Web
+
+* HTML5
+* CSS3
+* JavaScript (em progresso)
+
+### 📊 Dados & Programação
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+
+### ⚙️ Ferramentas
+
+* Git & GitHub
+* SQL
+* Análise de Dados
+
+---
+
+## 🚀 Projetos em Destaque
+
+*(em construção — atualizações em breve)*
+
+* 🔹 Landing Page Profissional (HTML, CSS, JS)
+* 🔹 Sistema com lógica em JavaScript
+* 🔹 Aplicação com CRUD (Node.js)
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engineer-Ana\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-Ana\&layout=compact\&theme=default)
+
+---
+
+## 📫 Contato
+
+📧 Email: [anama.dias@gmail.com](mailto:anama.dias@gmail.com)
 💼 LinkedIn: linkedin.com/in/anamariadias
 
-🌐 Portfólio: [em breve!]
+---
 
-🌟 Fun Fact
-"Da engenharia à ciência de dados, trago a precisão da indústria para o mundo dos algoritmos - sempre com um toque humano."
+## ⚡ Direção atual
 
-⚡ Construindo meu futuro tech, um commit por vez!
+Construindo projetos que conectam **engenharia, tecnologia e aplicações práticas**, com foco em gerar valor real através do desenvolvimento de soluções digitais.
