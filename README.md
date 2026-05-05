@@ -46,11 +46,10 @@ Interesses principais:
 
 ## 🚀 Projetos em Destaque
 
-*(em construção — atualizações em breve)*
-
-* 🔹 Landing Page Profissional (HTML, CSS, JS)
-* 🔹 Sistema com lógica em JavaScript
-* 🔹 Aplicação com CRUD (Node.js)
+- 🔹 [Landing Page Pet Shop Pet Feliz](https://github.com/Engineer-Ana/pet-shop-pet-feliz) (HTML, CSS, JS)
+- 🔹 [Meu Site Pessoal](https://github.com/Engineer-Ana/site-ana) (HTML)
+- 🔹 Sistema com lógica em JavaScript *(em breve)*
+- 🔹 Aplicação com CRUD em Node.js *(em breve)*
 
 ---
 
