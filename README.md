@@ -1,6 +1,6 @@
 # Ana Maria Dias
 
-**Engenharia de Produção | Engenharia Têxtil | Desenvolvimento Web em formação**
+**Engenharia de Produção | Engenharia Têxtil | Data Analylist e Dev em formação**
 
 📍 Blumenau/SC, Brasil
 
