@@ -1,6 +1,6 @@
 # Ana Maria Dias
 
-**Engenharia de Produção | Mestra em I4.0 (PPGEtex - UFSC) | Data Analylist e Dev em formação**
+**Engenharia de Produção | Mestra em I4.0 (PPGETEX - UFSC) | Data Analylist e Dev em formação**
 
 📍 Blumenau/SC, Brasil
 
