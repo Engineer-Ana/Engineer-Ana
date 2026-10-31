@@ -1,6 +1,6 @@
 # Ana Maria Dias
 
-**Engenharia de Produção | Mestra em I4.0 (PPGETEX - UFSC) | Data Analylist e Dev em formação**
+**Engenharia de Produção | Mestra em I4.0 | Quality Assurance em formação**
 
 📍 Blumenau/SC, Brasil
 
@@ -8,16 +8,17 @@
 
 ## 👩‍💻 Sobre mim
 
-Atuo na interseção entre engenharia, tecnologia e dados, com foco em desenvolvimento de soluções práticas e eficientes.
+Atuo na interseção entre engenharia, dados e tecnologia, com foco em garantia da qualidade no SDLC.
 
-Atualmente em formação em **Desenvolvimento Web (Front-End e Back-End)**, construindo projetos aplicados e orientados a problemas reais.
+Atualmente cursando **Pós-graduação em Qualidade e teste de software**.
 
 Interesses principais:
 
 * Indústria 4.0
-* Desenvolvimento Web
+* Quality Assurance
+* SDLC
 * Análise de Dados
-* Aplicações tecnológicas com impacto real
+
 
 ---
 
@@ -39,8 +40,9 @@ Interesses principais:
 ### ⚙️ Ferramentas
 
 * Git & GitHub
-* SQL
-* Análise de Dados
+* SQL básico
+* Locker
+* DBeaver
 
 ---
 
@@ -48,8 +50,7 @@ Interesses principais:
 
 - 🔹 [Landing Page Pet Shop Pet Feliz](https://github.com/Engineer-Ana/pet-shop-pet-feliz) (HTML, CSS, JS)
 - 🔹 [Meu Site Pessoal](https://github.com/Engineer-Ana/site-ana) (HTML)
-- 🔹 Sistema com lógica em JavaScript *(em breve)*
-- 🔹 Aplicação com CRUD em Node.js *(em breve)*
+
 
 ---
 
