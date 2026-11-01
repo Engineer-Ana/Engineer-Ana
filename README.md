@@ -43,10 +43,15 @@ Atualmente em especialização na área de Quality Assurance e Testes de Softwar
 
 ---
 
+---
+
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engineer-Ana&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engineer-Ana&show_icons=true&theme=default&cache_seconds=86400)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-Ana&layout=compact&theme=default&cache_seconds=86400)
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-Ana&layout=compact&theme=default)
 
 ---
