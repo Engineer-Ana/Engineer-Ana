@@ -8,16 +8,8 @@
 
 ## 👩‍💻 Sobre mim
 
-Atuo na interseção entre engenharia, dados e tecnologia, com foco em garantia da qualidade no SDLC.
-
-Atualmente cursando **Pós-graduação em Qualidade e teste de software**.
-
-Interesses principais:
-
-* Indústria 4.0
-* Quality Assurance
-* SDLC
-* Análise de Dados
+Atuo na intersecção entre melhoria de processos, gestão de qualidade e tecnologia, fundamentada por minha formação em Engenharia de Produção e Mestrado focado em Indústria 4.0. 
+Atualmente em especialização na área de Quality Assurance e Testes de Software, aplico o rigor analítico, a visão de negócios e o gerenciamento de projetos da engenharia para garantir a eficiência e a qualidade técnica no ciclo de vida de desenvolvimento de software (SDLC).
 
 
 ---
